@@ -1,6 +1,6 @@
-# Psi-k MLIP Workshop 2021 
+# Kick-off workshop ai.qu. Bayer Berlin
 
-This repository contains files for the ænet tutorial at the Psi-k workshop on Machine Learning Interatomic Potentials (ML-IP), Nov 15-19, 2021: <https://www.mlip-workshop-2021.xyz>
+This repository contains files for the ænet tutorial during the Kick-off workshop ai.qu. Bayer Berlin in June 2022.  The materials are based on a previous tutorial at the Psi-k workshop on Machine Learning Interatomic Potentials (ML-IP), Nov 15-19, 2021: <https://www.mlip-workshop-2021.xyz>
 
 The *atomic energy network* (ænet, <http://ann.atomistic.net>) package is a software for the construction and usage of ML-IPs based on artificial neural networks (ANNs).  
 See also the following reference publications that describe some of the implementational aspects of ænet used in this tutorial.
